@@ -4,6 +4,12 @@
 注意，在使用时如果没有配置相关环境，需要把code文件夹里的exe文件下载后放在运行程序的文件夹内，或者可以去Chrome Drive官网自行下载对应的版本
 
 
+本脚本所使用的问卷星链接为：https://www.wjx.cn/vm/wrN6PZN.aspx#
+
+
 Questionnaire script
 This is a script for the number of questionnaires, based on selenium in python, you can customize the results according to your needs
 Note that if the relevant environment is not configured during use, you need to download the exe file in the code folder and put it in the folder running the program, or you can go to the Chrome Drive official website to download the corresponding version
+
+
+The questionnaire links used in this script is：https://www.wjx.cn/vm/wrN6PZN.aspx#
